@@ -12,7 +12,7 @@ I am a passionate and dedicated **B.Tech student in Computer Science and Enginee
 - 🏆 Project Highlights all are available at :- https://www.linkedin.com/in/anshul-kumar-5505b9218
 
 ### Connect with me
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/.svg/1200px-Instagram_logo_2022.svg.png)](https://www.instagram.com/anshulprajapati147) [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/77/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/anshul-kumar-5505b9218)  [![HackerRank](https://upload.wikimedia.org/wikipedia/commons/7/7d/HackerRank_logo_2020.svg)](https://www.hackerrank.com/anshullko474)  [![LeetCode](https://upload.wikimedia.org/wikipedia/commons/0/00/LeetCode_Logo.png)](https://leetcode.com/anshulkumar95)  [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://x.com/ANSHULK12498941)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/.svg/1200px-Instagram_logo_2022.svg.png)](https://www.instagram.com/anshulprajapati147) [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/77/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/anshul-kumar-5505b9218)  [![HackerRank](https://upload.wikimedia.org/wikipedia/commons/7/7d/HackerRank_logo_2020.svg)](https://www.hackerrank.com/anshullko474)  [![LeetCode](https://upload.wikimedia.org/wikipedia/commons/0/00/LeetCode_Logo.png)](https://leetcode.com/TechStackWizard)  [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://x.com/ANSHULK12498941)
 
 ### 🛠️ Skills & Tools
 
