@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=TechStackWizard&color=blue&style=flat-square)
 
 ### 🚀 About Me  
-I am a passionate and dedicated **B.Tech student in Computer Science and Engineering**. I am focused on **full-stack development** with the **MERN stack** and mastering **JavaScript for Data Structures and Algorithms**. I thrive on solving problems, learning new technologies, and contributing to impactful projects.
+I am a passionate and dedicated **B.Tech student in Computer Science and Engineering**. I am focused on **full-stack development** with the **MERN stack** and mastering **Java for Data Structures and Algorithms**. I thrive on solving problems, learning new technologies, and contributing to impactful projects.
 
 ### 💻 What I Do  
 - **Web Development**: Proficient in creating responsive, user-friendly applications using **HTML, CSS, JavaScript, ReactJS**, and more.  
